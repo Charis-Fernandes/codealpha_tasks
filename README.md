@@ -5,9 +5,11 @@ Welcome to my repository for the tasks completed as part of the CodeAlpha intern
 ## Table of Contents
 - [Task 1: Automating GitHub Using Selenium](#task-1-automating-github-using-selenium)
 - [Task 2: Chatbot in Python](#task-2-chatbot-in-python)
+- [Task 3: Hangman Game with GUI](#task-3-hangman-game-with-gui)
 - [Setup Instructions](#setup-instructions)
 - [How to Run](#how-to-run)
 - [Contact](#contact)
+
 
 ## Task 1: Automating GitHub Using Selenium
 
@@ -63,6 +65,24 @@ pip install selenium nltk
    python chatbot.py
    ```
 2. Interact with the chatbot.
+
+## Task 3: Hangman Game with GUI
+
+### Description
+In this task, I developed a classic Hangman game with a graphical user interface (GUI) using Python’s Tkinter library. The game selects a random word, and the player must guess letters to reveal the word within a limited number of incorrect guesses.
+
+### Files
+- `hangman.py`: Contains the code for the Hangman game with GUI.
+
+### Libraries Used
+- `tkinter`
+- `random`
+
+### How to Run
+1. Run the script:
+   ```bash
+   python hangman.py
+
    
 ## Contact
 For any questions or feedback, feel free to reach out to me at fernandescharis097@gmail.com.
